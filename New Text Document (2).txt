@@ -1,0 +1,6 @@
+<html>
+	<tilte>class ten a one</title>
+	<body>
+	<p>day la lop 10 a1</p>
+	</body>
+</html>
